@@ -22,12 +22,7 @@ template: students
 
 # max 500 characters
 description:
-    J'ai 29ans, mariée, une petite Althéa magnifique de bientôt 18 mois.
-    Je me lance dans cette aventure Openclassrooms, car mon mari m'a vendu du rêve concernant le métier de développeur
-    et en effet, jusqu'à présent cet univers me correspond bien
-    et il a le net avantage d'être situé sur un marché porteur qui me permettra
-    de concilier vie professionnelle et familiale.
-
+    J'ai 39 ans , marie , 3 enfants. Je suis un auto entrepreuneur, j'ai commencé à être dans la vie active a 17 ans , et j'ai fait beaucoup de métiers.
 # image must be located in content/images/students
 # name should be the same as this file. Eg: celinemartinet.png
 # max size: 200ko
